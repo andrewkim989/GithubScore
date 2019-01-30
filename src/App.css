@@ -1,0 +1,37 @@
+.App {
+  margin: auto;
+  padding-top: 20px;
+  text-align: center;
+}
+#wrapper {
+  background-color: lightgrey;
+  height: 635px;
+}
+#githubform {
+  text-align: left;
+  margin: auto;
+  padding: 10px;
+  padding-left: 30px;
+  border-radius: 8px;
+  width: 600px;
+  background-color: rgb(173, 188, 230);
+}
+::placeholder {
+  padding-left: 5px;
+}
+.btn {
+  margin-left: 20px;
+}
+.error {
+  color: rgb(231, 48, 48);
+  margin-bottom: 5px;
+}
+#blackline {
+  height: 2px;
+  background-color: black;
+  margin-top: 30px;
+}
+#score {
+  padding: 25px;
+  font-size: 22px;
+}
